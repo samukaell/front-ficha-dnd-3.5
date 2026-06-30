@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <img src="https://logolook.net/wp-content/uploads/2023/09/Dungeons-Dragons-Logo-2000.png" alt="D&D 3.5 Logo" width="400" />
 
-## Getting Started
+  # Gerenciador de Fichas D&D 3.5
+  
+  *Um aplicativo web projetado para jogadores organizarem e gerenciarem suas enormes e complexas fichas de forma funcional e dinâmica.*
+</div>
 
-First, run the development server:
+<br />
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🐉 Sobre o Projeto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este é um projeto **sem fins lucrativos** desenvolvido especialmente para a comunidade de jogadores de Dungeons & Dragons 3.5. Sabemos que otimizar personagens (os famosos "combeiros") e manter o controle de todos os modificadores, magias, itens e talentos pode ser um grande desafio no papel. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+O objetivo desta aplicação é fornecer um ambiente onde os jogadores possam organizar diversas fichas de forma prática e versátil.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Características Principais
 
-## Learn More
+- **Gestão de Fichas Complexas:** Estrutura otimizada para lidar com os detalhes minuciosos e combos característicos do D&D 3.5.
+- **Armazenamento Seguro:** Utiliza um banco de dados **PostgreSQL** para preservar os dados das suas fichas com segurança e confiabilidade.
+- **Acesso em Qualquer Lugar:** Desenvolvido como uma **Single Page Application (SPA)** escalável, oferecendo uma experiência fluida e moderna.
+- **Multiplataforma:** Interface responsiva, perfeitamente compatível com telas de **smartphones, tablets e desktops**.
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tecnologias Utilizadas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Frontend:** SPA moderna e escalável (baseado em Next.js e React).
+- **Banco de Dados:** PostgreSQL para persistência robusta dos dados das fichas.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🚀 Como Iniciar
 
-## Deploy on Vercel
+*(Instruções de instalação e execução do ambiente de desenvolvimento serão adicionadas em breve)*
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Feito de fã para fã. Rolem a iniciativa!*
