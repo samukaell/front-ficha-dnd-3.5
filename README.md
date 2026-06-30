@@ -3,7 +3,7 @@
 
   # Gerenciador de Fichas D&D 3.5
   
-  *Um aplicativo web projetado para jogadores organizarem e gerenciarem suas enormes e complexas fichas de forma funcional e dinâmica.*
+  *Um aplicativo web projetado para jogadores organizarem e gerenciarem suas enormes e complexas fichas no melhor sistema de todos o classico 3.5*
 </div>
 
 <br />
